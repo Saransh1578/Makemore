@@ -77,7 +77,26 @@ A fully custom MLP model where both the forward and backward passes are implemen
 
 ** Example names generated using the Manual Backpropagation MLP model:
 ````
-
+mora.
+mayah.
+see.
+mad.
+ryla.
+reisha.
+ejdrie.
+cadelynnelin.
+shi.
+jen.
+eden.
+sana.
+arleigh.
+malaia.
+noshub.
+roshiriel.
+kindreelynn.
+novana.
+ubdence.
+ryyah.
 ````
 
 ## Usage
