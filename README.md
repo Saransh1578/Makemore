@@ -72,6 +72,14 @@ hal.
 salyansuiezajelveu
 ````
 
+### 4. Manual Backpropagation MLP (from Scratch)
+A fully custom MLP model where both the forward and backward passes are implemented manually using pure PyTorch tensor operations—without relying on PyTorch's autograd. This design serves as a foundational learning exercise to deeply understand gradient flow, parameter updates, and the mechanics of training neural networks at the lowest level. The model captures the essence of backpropagation by explicitly computing gradients for each layer and updating weights accordingly.
+
+** Example names generated using the Manual Backpropagation MLP model:
+````
+
+````
+
 ## Usage
 Clone the repository and run the provided scripts to train and generate names using any of the implemented models. The implementation includes training from scratch and sampling names from the trained models.
 
