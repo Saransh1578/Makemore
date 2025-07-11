@@ -103,6 +103,7 @@ ryyah.
 A name generation model based on the WaveNet (2016) architecture by DeepMind, using stacks of convolutions. This allows the model to capture long-range dependencies efficiently without recurrent layers, making it well-suited for autoregressive character-level generation.
 
 ## Example names generated using the WaveNet-Inspired CNN model:
+````
 azakiel.
 jaydon.
 annali.
@@ -123,6 +124,7 @@ trulee.
 brian.
 nileikus.
 kadari.
+````
 
 ## Usage
 Clone the repository and run the provided scripts to train and generate names using any of the implemented models. The implementation includes training from scratch and sampling names from the trained models.
